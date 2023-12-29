@@ -1,4 +1,3 @@
-## Stock Game Project
 # Overview
 
 This project is a comprehensive JavaScript application that simulates investment strategies in a dynamic stock market environment. The core of the application revolves around tracking and managing investments in fictional companies, with a focus on data-driven decision making and market analysis.
