@@ -2,6 +2,8 @@
 
 This project is a comprehensive JavaScript application that simulates investment strategies in a dynamic stock market environment. The core of the application revolves around tracking and managing investments in fictional companies, with a focus on data-driven decision making and market analysis.
 
+Demo Link: https://calculator5329.github.io/StockGame.html
+
 # Features
 Interactive Stock Market Simulation: The application allows users to buy and sell stocks of various companies, with prices changing over time based on simulated market conditions.
 
